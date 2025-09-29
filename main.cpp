@@ -10,3 +10,4 @@ int main(int argc, char** argv) {
     printf("Привет, %s", str);
     return 0;
 }
+
